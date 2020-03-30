@@ -238,5 +238,5 @@ files:
     print("The game will be available soon.")
   learner_created: false
 feedback_link: https://hyperskill.org/projects/69/stages/377/implement
-status: Unchecked
-record: -1
+status: Solved
+record: 6
